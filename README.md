@@ -22,6 +22,7 @@ Latin text of the *Gesta Francorum* according to the reference manuscript (Reg. 
 
 * **Index_personarum.xlsx**: 
 Numbered list of persons mentioned in the *Gesta Francorum*, displayed in the form of a table that contains – besides the variants attested in the text – standardized English versions of their names and, where available, links to existing authority files\* as well as to the entries in the “Database of Crusaders”: despite its still provisional status an excellent prosopographical resource compiled by a team of leading scholars of the Crusades (s. [https://www.dhi.ac.uk/crusaders/](https://www.dhi.ac.uk/crusaders/)).
+
 \* DNB: Deutsche Nationalbibliothek (German National Library), VIAF: Virtual International Authority File
 
 * **Font_files** (folder): 
