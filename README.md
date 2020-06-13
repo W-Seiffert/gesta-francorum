@@ -25,7 +25,7 @@ Numbered list of persons mentioned in the *Gesta Francorum*, displayed in the fo
 \* DNB: Deutsche Nationalbibliothek (German National Library), VIAF: Virtual International Authority File
 
 * **Font_files** (folder):  
-Files for the **Palemonas MUFI font** (version 3.0) selected in this project to typographically display the text of the reference manuscript (Reg. Lat. 572) in a form usable for palaeographical studies. The font, developed by a team around the Lithuanian computer scientist Vladas Tumasonis, has been deployed as a freeware and is still one of the essential fonts recommended by the scholars of the MUFI group. It is freely available via the MUFI website on the Internet: s. [https://folks.uib.no/hnooh/mufi/fonts/index.html#PalemonasMUFI](https://folks.uib.no/hnooh/mufi/fonts/index.html#PalemonasMUFI).
+Files for the **Palemonas MUFI font** (version 3.0) selected in this project to typographically display the text of the reference manuscript (Reg. Lat. 572) in a form usable for palaeographical studies. The font, developed by a team around the Lithuanian computer scientist Vladas Tumasonis, has been deployed as a freeware and is still one of the essential fonts recommended by the scholars of the MUFI group. It is freely available via the MUFI website on the Internet: s. [https://folk.uib.no/hnooh/mufi/fonts/index.html#PalemonasMUFI](https://folk.uib.no/hnooh/mufi/fonts/index.html#PalemonasMUFI).
 
 * **Abbrev_pics_Reg-Lat-572** (folder):  
 Selected image files of particular abbreviations used in the reference manuscript (Reg. Lat. 572), for whose typographical representation specialized solutions had to be found. (= to be expanded)
