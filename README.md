@@ -14,22 +14,21 @@ The initiative for the project presented here goes back to an introductory cours
 
 ## File List
 
-* **Gesta_Francorum_1(DE).xml / Gesta_Francorum_1(EN).xml**: 
+* **Gesta_Francorum_1(DE).xml / Gesta_Francorum_1(EN).xml**:  
 Latin text of the *Gesta Francorum* according to the reference manuscript (Reg. Lat. 572), marked-up with regard to intended purposes of the edition according to the TEI standards, provided with relevant meta data and editorial notes in a German and an English version.
 
-* **Plain_text.txt**:
+* **Plain_text.txt**:  
 Latin text of the *Gesta Francorum* according to the reference manuscript (Reg. Lat. 572), with all abbreviations resolved, but without any markup / annotation of the document.
 
-* **Index_personarum.xlsx**: 
-Numbered list of persons mentioned in the *Gesta Francorum*, displayed in the form of a table that contains – besides the variants attested in the text – standardized English versions of their names and, where available, links to existing authority files\* as well as to the entries in the “Database of Crusaders”: despite its still provisional status an excellent prosopographical resource compiled by a team of leading scholars of the Crusades (s. [https://www.dhi.ac.uk/crusaders/](https://www.dhi.ac.uk/crusaders/)).
-
+* **Index_personarum.xlsx**:  
+Numbered list of persons mentioned in the *Gesta Francorum*, displayed in the form of a table that contains – besides the variants attested in the text – standardized English versions of their names and, where available, links to existing authority files\* as well as to the entries in the “Database of Crusaders”: despite its still provisional status an excellent prosopographical resource compiled by a team of leading scholars of the Crusades (s. [https://www.dhi.ac.uk/crusaders/](https://www.dhi.ac.uk/crusaders/)).  
 \* DNB: Deutsche Nationalbibliothek (German National Library), VIAF: Virtual International Authority File
 
-* **Font_files** (folder): 
+* **Font_files** (folder):  
 Files for the **Palemonas MUFI font** (version 3.0) selected in this project to typographically display the text of the reference manuscript (Reg. Lat. 572) in a form usable for palaeographical studies. The font, developed by a team around the Lithuanian computer scientist Vladas Tumasonis, has been deployed as a freeware and is still one of the essential fonts recommended by the scholars of the MUFI group. It is freely available via the MUFI website on the Internet: s. [https://folks.uib.no/hnooh/mufi/fonts/index.html#PalemonasMUFI](https://folks.uib.no/hnooh/mufi/fonts/index.html#PalemonasMUFI).
 
-* **Abbrev_pics_Reg-Lat-572** (folder):
+* **Abbrev_pics_Reg-Lat-572** (folder):  
 Selected image files of particular abbreviations used in the reference manuscript (Reg. Lat. 572), for whose typographical representation specialized solutions had to be found. (= to be expanded)
 
-* **Bibliography.xml**:
+* **Bibliography.xml**:  
 Preliminary bibliography to the project, including previous editions of the *Gesta Francorum* and a selection of relevant research literature. (= to be expanded)
