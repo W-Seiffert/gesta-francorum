@@ -6,11 +6,13 @@ This repository contains material for a digital edition of the *Gesta Francorum*
 ## Project
 The initiative for the project presented here goes back to an introductory course about digital editorial activities, offered for students of various disciplines at the Free University of Berlin (2019/20). Based on the experiences and insights gained during this course was born the idea to explore by means of a model case potential opportunities and benefits of a “digital edition” in the proper meaning of the word.  
 Therefore, having familiarized himself at least with the essential concepts and technologies, the author of these lines chose a in his eyes editorially challenging text from one of his fields of interest, worked out an editorial design in line with the envisaged purposes of use and started – as a first step in the workflow – with a thorough markup of the text. As is a common practice, he based this preliminary work (regarding primarily the storage of text data) on the **Extensible Markup Language (XML)** in accordance with the current version (P5) of the Guidelines of the **Text Encoding Initiative (TEI)** (s. [https://tei-c.org/guidelines/p5/](https://tei-c.org/guidelines/p5/)), which seem to have become sort of a standard in the Digital Humanities. Thanks to the Free University’s equipment, the XML mark-up could be carried out and validated with the help of the **Oxygen Editor** (version: 21.1), a widespread (albeit proprietary) software distinguished by its broad and diverse functionalities.  
-(...)  
+( . . . )  
 
 **Double purpose of the intended digital edition:**  
    a) Critical edition of the text with an historical as well as philological commentary - in order to make accessible the *Gesta Francorum* as historical source and literary work of art.  
    b) Edition of the text of the reference manuscript ("Leithandschrift", i.e. the *Codex Vaticanus Reginensis Latinus 572*) in a form that preserves its palaeographical peculiarities - in order to contribute to a digital record of the manuscript tradition and to make available the text for palaeographical studies/exercises.  
+  
+( . . . )  
 
 * For further information concerning the editorial approach, including the encoding of the text, please refer to the project’s **Documentation**. (= to be added soon)
 * For further information concerning the text of the Gesta Francorum, its transmission and historical as well as literary placement, please refer to (especially the introductory section of) the **Commentary**. (= to be added soon)
