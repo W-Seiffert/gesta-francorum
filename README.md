@@ -21,7 +21,7 @@ The text to be edited here, entitled ***Gesta Francorum et aliorum Hierosolimita
 * For further information concerning the text of the *Gesta Francorum*, its transmission and historical as well as literary placement, please refer to (especially the introductory section of) the **Commentary**. (= to be added soon)
   
 ## To Do  
-+ complete the XML markup for the whole text of the Gesta Francorum  
++ complete the XML markup for the whole text of the *Gesta Francorum*  
 + collect / process the comprehensive information in the text regarding the historical geography behind the narrative (e.g., with the help of further authority files?)  
 + add an Index geographicus  
 + add further documents (maps, texts, archaeological finds) to explore the historical context  
