@@ -7,7 +7,7 @@ This repository contains material for a digital edition of the *Gesta Francorum*
 The initiative for the project presented here goes back to an introductory course about digital editorial activities, offered for students of various disciplines at the Free University of Berlin (2019/20). Based on the experiences and insights gained during this course was born the idea to explore by means of a model case potential opportunities and benefits of a “digital edition” in the proper meaning of the word.  
 Therefore, having familiarised himself at least with the essential concepts and technologies, the author of these lines chose a in his eyes editorially challenging text from one of his fields of interest, worked out an editorial design in line with the envisaged purposes of use and started – as a first step in the workflow – with a thorough markup of the text. As is a common practice, he based this preliminary work (regarding primarily the storage of text data) on the **Extensible Markup Language (XML)** in accordance with the current version (P5) of the Guidelines of the **Text Encoding Initiative (TEI)** (s. [https://tei-c.org/guidelines/p5/](https://tei-c.org/guidelines/p5/)), which seem to have become sort of a standard in the Digital Humanities. Thanks to the Free University’s technical equipment, the XML mark-up could be carried out and validated with the help of the **Oxygen Editor**, a widespread (albeit proprietary) software for this purpose distinguished by its broad and diverse functionalities.  
   
-The text to be edited here, entitled ***Gesta Francorum et aliorum Hierosolimitanorum*** (“The Deeds of the Franks and other Pilgrims to Jerusalem”) in the manuscript put at the centre of this project, is not only one of the earliest, but according to a lot of its interpreters also one of the most substantial sources for the history of the First Crusade. As such, it had de facto an enormous impact on virtually all later historiographers writing about the subject and keeps a key role to the present day in interpretations about or discussions on the matter within modern scholarship.  
+The text to be edited here, entitled ***Gesta Francorum et aliorum Hierosolimitanorum*** (“The Deeds of the Franks and other Pilgrims to Jerusalem”) in the manuscript put at the centre of this project, is not only one of the earliest, but according to a lot of its interpreters also one of the most substantial sources for the history of the First Crusade. As such, it had an enormous impact on virtually all later historiographers writing about the subject and keeps a key role to the present day in interpretations about or discussions on the matter within modern scholarship.  
   
 ( . . . )  
 
@@ -19,11 +19,17 @@ The text to be edited here, entitled ***Gesta Francorum et aliorum Hierosolimita
 
 * For further information concerning the editorial approach, including the encoding of the text, please refer to the project’s **Documentation**. (= to be added soon)
 * For further information concerning the text of the *Gesta Francorum*, its transmission and historical as well as literary placement, please refer to (especially the introductory section of) the **Commentary**. (= to be added soon)
-
-## Progress
-
-## To Do
-
+  
+## To Do  
++ complete the XML markup for the whole text of the Gesta Francorum  
++ collect / process the comprehensive information in the text regarding the historical geography behind the narrative (e.g., with the help of further authority files?)  
++ add an Index geographicus  
++ add further documents (maps, texts, archaeological finds) to explore the historical context  
++ add a critical apparatus to the text  
++ add a historical commentary to the text  
++ prepare XSLT files for different transformations of the marked-up text  
++ provide a full documentation to the project
+  
 ## File List
 
 * **Gesta_Francorum_1(DE).xml / Gesta_Francorum_1(EN).xml**:  
