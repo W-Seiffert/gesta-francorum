@@ -16,8 +16,8 @@ To achieve these somewhat disparate objectives, the idea is to enable the conver
   
 ( . . . )  
 
-&#2192; For further information concerning the editorial approach, including the encoding of the text, please refer to the project’s **Documentation**. (= to be added soon)
-&#2192; For further information concerning the text of the *Gesta Francorum*, its transmission and historical as well as literary placement, please refer to (especially the introductory section of) the **Commentary**. (= to be added soon)
+&#x2192; For further information concerning the editorial approach, including the encoding of the text, please refer to the project’s **Documentation**. (= to be added soon)
+&#x2192; For further information concerning the text of the *Gesta Francorum*, its transmission and historical as well as literary placement, please refer to (especially the introductory section of) the **Commentary**. (= to be added soon)
   
 ## To Do  
 + complete the XML markup for the whole text of the *Gesta Francorum*  
