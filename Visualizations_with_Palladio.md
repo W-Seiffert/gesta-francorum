@@ -6,6 +6,7 @@
 &nbsp;
 START MAIN TEXT HERE!  
 &nbsp;
+
 --> Fig. 01: *Gesta Francorum* I – Crusaders’ contingents:  
 ![Crusaders contingents](https://github.com/W-Seiffert/gesta-francorum/blob/master/Crusaders_contingents.PNG?raw=true)  
   
