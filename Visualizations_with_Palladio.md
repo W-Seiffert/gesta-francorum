@@ -12,3 +12,6 @@ START MAIN TEXT HERE!
   
 --> Fig. 02: *Gesta Francorum* I – Crusaders’ provenance:  
 ![Crusaders provenance](https://github.com/W-Seiffert/gesta-francorum/blob/master/Crusaders_provenance.PNG?raw=true)  
+
+> *Visualisations are of course not “proof” of anything but tools to help understand complex relations; their interpretation is based on a good understanding of the underlying data and how it was visualized.*
+> (Marten Düring, From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources (2015-02-18), s. https://programminghistorian.org/en/lessons/creating-network-diagrams-from-historical-sources)
