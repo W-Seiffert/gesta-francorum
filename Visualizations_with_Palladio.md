@@ -4,7 +4,7 @@
 (Andy Kirk / Simon Timms / Ændrew Rininsland / Swizec Teller, Data Visualization: Representing Information on Modern Web. Unleash the Power of Data by Creating Interactive, Engaging, and Compelling Visualizations for the Web, Birmingham 2016, p. 6)
   
 Fig. 01: *Gesta Francorum* I – Crusaders’ contingents  
-![Crusaders contingents](https://github.com/W-Seiffert/gesta-francorum/Crusaders_contingents.png?raw=true)  
+![Crusaders contingents](https://github.com/W-Seiffert/gesta-francorum/blob/master/Crusaders_contingents.png?raw=true)  
   
 Fig. 02: *Gesta Francorum* I – Crusaders’ provenance  
-![Crusaders provenance](https://github.com/W-Seiffert/gesta-francorum/Crusaders_provenance.png?raw=true)  
+![Crusaders provenance](https://github.com/W-Seiffert/gesta-francorum/blob/master/Crusaders_provenance.png?raw=true)  
