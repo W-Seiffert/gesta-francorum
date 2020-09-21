@@ -4,7 +4,9 @@
 > (Andy Kirk / Simon Timms / Ændrew Rininsland / Swizec Teller, Data Visualization: Representing Information on Modern Web. Unleash the Power of Data by Creating Interactive, Engaging, and Compelling Visualizations for the Web, Birmingham 2016, p. 6)  
 
 
-START MAIN TEXT HERE!  
+Given that especially in recent times (that is, in times of increasing computerization as well as digitalization) great emphasis is put on the wide-ranging values of data visualization, as illustrated by the introductory quote, I thought it worthwhile to include some visualizations I created for an analysis of the text at issue here within the pages of this GitHub project.  
+They have been realized with the help of a currently popular software for such purposes, that is called **PALLADIO**. Provided that you have (more or less) well-structured data at hand, this tool allows you – using its creators’ slogan – to “visualize complex historical data with ease”, albeit (as of fall 2020) only with a set of rather basic functionalities. Originally a product of a large-scale project funded by the National Endowment for the Humanities (“Networks in History: Data-driven tools for analyzing relationships across time”, 2013-2016), PALLADIO has been developed and is to the present day maintained by an interdisciplinary team based at the Stanford University (cf. the website: https://hdlab.stanford.edu/palladio/).
+  
 &nbsp;
 
 --> Fig. 01: *Gesta Francorum* I – Crusaders’ contingents:  
