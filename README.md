@@ -47,14 +47,15 @@ Preliminary bibliography to the project, including previous editions of the *Ges
 Latin text of the *Gesta Francorum* according to the chosen reference manuscript (Reg. Lat. 572), marked-up in view of the intended purposes of the edition according to the TEI standards, provided with relevant meta data and editorial notes in a German and an English version.
 
 * **Index_geographicus.xlsx**:  
-List of geographical entities (regions, cities, mountains, rivers, etc.)
+Numbered list of geographical entities mentioned in the *Gesta Francorum* (countries, regions, cities, mountains, rivers, etc.), displayed in the form of a table that contains - besides the variants attested in the text - standardized English versions of their names and, where available, links to existing **authority files**\*.  
+\* *GND*: Gemeinsame Normdatei ("Common Authority File"); *VIAF*: Virtual International Authority File; *GeoNames*
 
 * **Index_personarum.xlsx**:  
-Numbered list of persons mentioned in the *Gesta Francorum*, displayed in the form of a table that contains – besides the variants attested in the text – standardized English versions of their names and, where available, links to existing authority files\* as well as to the entries in the “Database of Crusaders”: despite its still provisional status an excellent prosopographical resource compiled by a team of leading scholars of the Crusades (s. [https://www.dhi.ac.uk/crusaders/](https://www.dhi.ac.uk/crusaders/)).  
-\* DNB: Deutsche Nationalbibliothek (German National Library), VIAF: Virtual International Authority File
+Numbered list of persons mentioned in the *Gesta Francorum*, displayed in the form of a table that contains – besides the variants attested in the text – standardized English versions of their names and, where available, links to existing **authority files**\* as well as to the entries in the **“Database of Crusaders”**: despite its still provisional status an excellent prosopographical resource compiled by a team of leading Crusades scholars (s. [https://www.dhi.ac.uk/crusaders/](https://www.dhi.ac.uk/crusaders/)).  
+\* *DNB*: Deutsche Nationalbibliothek ("German National Library"); *VIAF*: Virtual International Authority File
 
 * **Plain_text.txt**:  
 Latin text of the *Gesta Francorum* according to the chosen reference manuscript (Reg. Lat. 572), with all abbreviations resolved, but without any markup / annotation of the document.
 
-* **Visualizations_with_PALLADIO.md**:  
-Visualizations, created with the help of the Stanford visualization tool PALLADIO.
+* **Visualizations_with_Palladio.md**:  
+Selected visualizations based on data from the *Gesta Francorum*, created with the Stanford visualization tool PALLADIO - including a critical reflection on prerequisites and challenges of data visualization.
