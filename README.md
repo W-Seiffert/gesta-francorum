@@ -43,6 +43,9 @@ Files of the **Palemonas MUFI font** (version 3.0), selected in this project to 
 * **Bibliography.xml**:  
 Preliminary bibliography to the project, including previous editions of the *Gesta Francorum* and a selection of relevant research literature. (= to be expanded)
 
+* **Crusaders_contingents.PNG / Crusaders_provenance.PNG**:  
+Data visualizations concerning the *Gesta Francorum*, s. beyond the short description of the file *Visualizations_with_Palladio.md*.
+
 * **Gesta_Francorum_1(DE).xml / Gesta_Francorum_1(EN).xml**:  
 Latin text of the *Gesta Francorum* according to the chosen reference manuscript (Reg. Lat. 572), marked-up in view of the intended purposes of the edition according to the TEI standards, provided with relevant meta data and editorial notes in a German and an English version.
 
@@ -58,4 +61,4 @@ Numbered list of persons mentioned in the *Gesta Francorum*, displayed in the fo
 Latin text of the *Gesta Francorum* according to the chosen reference manuscript (Reg. Lat. 572), with all abbreviations resolved, but without any markup / annotation of the document.
 
 * **Visualizations_with_Palladio.md**:  
-Selected visualizations based on data from the *Gesta Francorum*, created with the Stanford visualization tool PALLADIO - including a critical reflection on prerequisites and challenges of data visualization.
+Selected visualizations based on data from the *Gesta Francorum*, created with the Stanford visualization tool PALLADIO (s. the files *Crusaders_contingents.PNG* and *Crusaders_provenance.PNG*) - including a critical reflection on prerequisites and challenges of data visualization.
