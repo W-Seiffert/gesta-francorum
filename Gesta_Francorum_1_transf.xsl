@@ -12,19 +12,18 @@
   <xsl:output method="html" indent="yes" encoding="UTF-8" version="5"/>
 
   <xsl:template match="TEI/text/body/div/ab">
-    <!-- <xsl:value-of select="."/> -->
     <xsl:apply-templates/>
-
   </xsl:template>
 
+  <!-- Template to remove line breaks and concatenate the strings around <lb break="no"/> elements -->
   <xsl:template match="text()[following-sibling::*[1][self::lb[@break='no']]]">
-    <span style="color:green"><xsl:value-of select="normalize-space()" /></span>
-    <!-- <xsl:value-of select="normalize-space()"/> -->
+    <xsl:value-of select="normalize-space()"/>
   </xsl:template>
 
+  <!-- Templates to design the output of particular <hi> nodes -->
   <xsl:template match="TEI/text/body/div/ab/descendant-or-self::hi[@rend='colour:red']">
     <span style="color:darkred; font-weight:bold"><xsl:value-of select="."/></span>
-  </xsl:template>
+  </xsl:template>  
   <xsl:template match="(TEI/text/body/div/ab/descendant-or-self::hi[@rend='capitalize colour:red'])[1]">
     <span style="color:darkred; font-weight:bold"><xsl:value-of select=".//text()[not(ancestor::orig) and not(ancestor::am)]"/></span>
     <br/>
@@ -32,40 +31,11 @@
   <xsl:template match="TEI/text/body/div/ab/descendant-or-self::hi[@rend='capitalize colour:red'][preceding::hi[@rend='capitalize colour:red']]">
     <span style="color:darkred; font-weight:bold"><xsl:value-of select=".//text()[not(ancestor::orig) and not(ancestor::am)]"/></span>
   </xsl:template> 
-
-  <!--
-  <xsl:template match="TEI/text/body/div/ab/descendant-or-self::hi[preceding-sibling::*[1][(self::lb[@n='1'])[1]]]">
-    <xsl:value-of select="."/>
-    <br/>
-  </xsl:template>
--->
   
+  <!-- Templates to skip the content of <orig> and of <am> nodes -->
   <xsl:template match="TEI/text/body/div/ab/descendant-or-self::orig"/>
   <xsl:template match="TEI/text/body/div/ab/descendant-or-self::am"/>
 
-<!--
-  <xsl:template match="TEI/text/body/div/ab/descendant-or-self::orgName">
-    <xsl:choose>
-      <xsl:when test="descendant-or-self::choice">
-        <seg style="color:blue"><xsl:value-of select="./choice/reg"/></seg>
-      </xsl:when>
-      <xsl:otherwise>
-        <seg style="color:blue"><xsl:value-of select="."/></seg>
-      </xsl:otherwise>
-    </xsl:choose>
-  </xsl:template>
-  
-  <xsl:template match="TEI/text/body/div/ab/descendant-or-self::placeName">
-    <xsl:choose>
-      <xsl:when test="descendant-or-self::choice">
-        <seg style="color:red"><xsl:value-of select="./choice/reg"/></seg>
-      </xsl:when>
-      <xsl:otherwise>
-        <seg style="color:red"><xsl:value-of select="."/></seg>
-      </xsl:otherwise>
-    </xsl:choose>
-  </xsl:template>
--->
 
   <!-- MAIN TEMPLATE -->
   <xsl:template match="/">
