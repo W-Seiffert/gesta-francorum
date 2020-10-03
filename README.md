@@ -1,7 +1,7 @@
 # gesta-francorum
 
 ## About
-This repository contains material for a digital edition of the *Gesta Francorum*, an early, anonymously handed down chronicle about (and one of the most commonly quoted sources for the study of) the First Crusade.
+This repository contains material for a digital edition of the ***Gesta Francorum***, an early, anonymously handed down chronicle about (and one of the most commonly quoted sources for the study of) the First Crusade.
 
 ## Project
 The initiative for the project presented here goes back to an introductory course about digital editorial activities, offered for students of various disciplines at the Free University of Berlin (2019/20). Based on the experiences and insights gained during this course was born the idea to explore by means of a model case potential opportunities and benefits of a “digital edition” in the proper meaning of the word.  
