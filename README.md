@@ -49,8 +49,10 @@ Data visualizations concerning the *Gesta Francorum*, s. beyond the short descri
 * **Gesta_Francorum_1(DE).xml / Gesta_Francorum_1(EN).xml**:  
 Latin text of the *Gesta Francorum* according to the chosen reference manuscript (Reg. Lat. 572), marked-up in view of the intended purposes of the edition according to the TEI standards, provided with relevant meta data and editorial notes in a German and an English version.
 
-* **Gesta_Francorum_1_transf.xsl**:  
-First draft of a basic XSL file designed to transform the project's XML source file into a readable HTML file. (Work in progress!)
+* **Gesta_Francorum_1_transf-A.xsl / Gesta_Francorum_1_transf-B.xsl**:  
+First drafts of basic XSL files designed to transform the project's XML source file into readable HTML files. (Work in progress!)  
++  *Version A*: displaying the text in a single continuous text block, with the manuscript's line breaks removed and all abbreviations resolved.   
++  *Version B*: displaying the text with all its line breaks and abbreviations as in the manuscript.  
 
 * **Index_geographicus.xlsx**:  
 Numbered list of geographical entities mentioned in the *Gesta Francorum* (countries, regions, cities, mountains, rivers, etc.), displayed in the form of a table that contains - besides the variants attested in the text - standardized English versions of their names and, where available, links to existing **authority files**\*.  
