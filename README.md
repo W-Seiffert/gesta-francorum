@@ -51,8 +51,8 @@ Latin text of the *Gesta Francorum* according to the chosen reference manuscript
 
 * **Gesta_Francorum_1_transf-A.xsl / Gesta_Francorum_1_transf-B.xsl**:  
 First drafts of basic XSL files designed to transform the project's XML source file into readable HTML files. (Work in progress!)  
-+  *Version A*: displaying the text in a single continuous text block, with the manuscript's line breaks removed and all abbreviations resolved.   
-+  *Version B*: displaying the text with all its line breaks and abbreviations as in the manuscript.  
+  *Version A*: displaying the text in a single continuous text block, with the manuscript's line breaks removed and all abbreviations resolved.   
+  *Version B*: displaying the text with all its line breaks and abbreviations as in the manuscript.  
 
 * **Index_geographicus.xlsx**:  
 Numbered list of geographical entities mentioned in the *Gesta Francorum* (countries, regions, cities, mountains, rivers, etc.), displayed in the form of a table that contains - besides the variants attested in the text - standardized English versions of their names and, where available, links to existing **authority files**\*.  
