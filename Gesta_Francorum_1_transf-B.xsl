@@ -15,6 +15,7 @@
         <xsl:apply-templates/>    
     </xsl:template>
     
+    <!-- Templates to design the output of particular <hi> nodes -->
     <xsl:template match="TEI/text/body/div/ab/descendant-or-self::hi[@rend='colour:red']">
         <span style="color:darkred; font-weight:bold"><xsl:value-of select="."/></span>
     </xsl:template>
@@ -26,7 +27,7 @@
         <span style="color:darkred; font-weight:bold"><xsl:value-of select=".//text()[not(ancestor::orig) and not(ancestor::am)]"/></span>
     </xsl:template> 
 
-    <!-- templates to display special characters used in the document -->
+    <!-- Templates to display special characters used in the document -->
     <xsl:template match="TEI/text/body/div/ab/descendant-or-self::g[@ref='#macron']">&#x0304;</xsl:template>
     <xsl:template match="TEI/text/body/div/ab/descendant-or-self::g[@ref='#p_stroke']">&#xA751;</xsl:template>
     <xsl:template match="TEI/text/body/div/ab/descendant-or-self::g[@ref='#p_flourish']">&#xA753;</xsl:template>
@@ -46,14 +47,17 @@
     <xsl:template match="TEI/text/body/div/ab/descendant-or-self::g[@ref='#abbr_ur']">&#x1DE3;</xsl:template>
     <xsl:template match="TEI/text/body/div/ab/descendant-or-self::g[@ref='#abbr_us']">&#xA770;</xsl:template>
 
+    <!-- Template to add line breaks after <lb> nodes -->
     <xsl:template match="TEI/text/body/div/ab/descendant-or-self::lb">
         <br/>
     </xsl:template>
     
+    <!-- Template to highlight page breaks in the document -->
     <xsl:template match="TEI/text/body/div/ab/descendant-or-self::pb">
         <span style="color:grey">[pag. <xsl:value-of select="@n"/>]</span>
     </xsl:template>
     
+    <!-- Templates to skip the content of <reg> and of <ex> nodes -->
     <xsl:template match="TEI/text/body/div/ab/descendant-or-self::reg"/>
     <xsl:template match="TEI/text/body/div/ab/descendant-or-self::ex"/>
 
