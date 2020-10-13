@@ -20,6 +20,11 @@
     <xsl:value-of select="normalize-space()"/>
   </xsl:template>
 
+  <!-- Template to highlight page breaks in the document -->
+  <xsl:template match="TEI/text/body/div/ab/descendant-or-self::pb">
+    <span style="color:grey">[pag. <xsl:value-of select="@n"/>]</span>  
+  </xsl:template>
+	
   <!-- Templates to design the output of particular <hi> nodes -->
   <xsl:template match="TEI/text/body/div/ab/descendant-or-self::hi[@rend='colour:red']">
     <span style="color:darkred; font-weight:bold"><xsl:value-of select="."/></span>
