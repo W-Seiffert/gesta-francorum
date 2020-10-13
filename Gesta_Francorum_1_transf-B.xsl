@@ -12,7 +12,6 @@
     <xsl:output method="html" indent="yes" encoding="UTF-8" version="5"/>
         
     <xsl:template match="TEI/text/body/div/ab">
-        <!-- <xsl:value-of select="."/> -->
         <xsl:apply-templates/>    
     </xsl:template>
     
@@ -27,6 +26,7 @@
         <span style="color:darkred; font-weight:bold"><xsl:value-of select=".//text()[not(ancestor::orig) and not(ancestor::am)]"/></span>
     </xsl:template> 
 
+    <!-- templates to display special characters used in the document -->
     <xsl:template match="TEI/text/body/div/ab/descendant-or-self::g[@ref='#macron']">&#x0304;</xsl:template>
     <xsl:template match="TEI/text/body/div/ab/descendant-or-self::g[@ref='#p_stroke']">&#xA751;</xsl:template>
     <xsl:template match="TEI/text/body/div/ab/descendant-or-self::g[@ref='#p_flourish']">&#xA753;</xsl:template>
