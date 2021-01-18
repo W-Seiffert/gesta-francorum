@@ -140,7 +140,11 @@
                     <div id="edit_note">
                         <xsl:value-of select="TEI/teiHeader/fileDesc/notesStmt/note"/>
                     </div>
-                    
+
+                    <div>
+                        <img src="sword_a.gif" alt="sword, pointing to the right" width="345.3" height="80" />&#160;<img src="sword_b.gif" alt="sword, pointing to the left" width="345.3" height="80" />
+                    </div> 
+			  
                 </div>
                 
                 <div id="main_content">
@@ -153,7 +157,7 @@
                 </div>
                 
                 <div id="footer">
-                    <img src="construction_site.png" alt="construction site" width="98" height="88" /> Work in progress!  
+                    <img src="work_in_progress.png" alt="work in progress" width="229.5" height="200" />
                 </div>
                 
             </body>
